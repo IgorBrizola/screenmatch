@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.modelos;
+package br.com.screenmatch.modelos;
 
 public class Titulo {
 
@@ -50,7 +50,7 @@ public class Titulo {
 
 
     public void exibeFichaTecnica(){
-        System.out.println("Nome do br.com.alura.screenmatch.modelos.Filme: " + nome);
+        System.out.println("Nome do Filme: " + nome);
         System.out.println("Ano de lançamento: " + anoDeLancamento);
         System.out.println("Duração em minutos: " + duracaoEmMinutos);
     }
