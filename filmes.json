@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Barbie",
+    "AnoDeLancamento": 2023,
+    "IncuidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvalicoes": 0,
+    "DuracaoEmMinutos": 114
+  },
+  {
+    "Nome": "Harry Potter and the Deathly Hallows: Part 2",
+    "AnoDeLancamento": 2011,
+    "IncuidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvalicoes": 0,
+    "DuracaoEmMinutos": 130
+  },
+  {
+    "Nome": "The Avengers",
+    "AnoDeLancamento": 2012,
+    "IncuidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvalicoes": 0,
+    "DuracaoEmMinutos": 143
+  }
+]
